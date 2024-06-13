@@ -1,2 +1,2 @@
 # TestGenie
- AI-based English test quiz Generater
+ LLM-based English test quiz Generater
