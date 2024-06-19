@@ -1,2 +1,3 @@
-# TestGenie
- LLM-based English test quiz Generater
+# LAMBDA
+L.A.M.B.D.A
+Language AI Modify Build Deliver Algorithm
